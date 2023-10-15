@@ -3,4 +3,4 @@
 The output would print out something like "{Name} your are half of {double your age}
 Group Members: Hasaan Ismaeli, Tahj Jones 
 
-We went with the GNU License because it was the best License for software development out of the 3 choices(MIT, Apache, and GNU). It was also gave more in depth Terms and conditions. 
+We went with the GNU License because it was the best License for software development out of the 3 choices(MIT, Apache, and GNU). It was also gave more in depth Terms and conditions. We decided to go with a CoC template from github because it covers mostly all the things we think is necessary to have a great and safe environment for people using our software.
