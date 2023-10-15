@@ -65,6 +65,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
+We want to encourage a safe and respectful environment for our users, and discourage any behavior that violates, or goes against our Code of Conduct.
 
 ## Enforcement Guidelines
 
